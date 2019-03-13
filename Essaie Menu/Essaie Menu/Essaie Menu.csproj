@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC9CF86A-AEB4-4B05-AF39-73AEAAFF27F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Essaie_Menu</RootNamespace>
+    <AssemblyName>Essaie Menu</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page_BO2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Page_BO2.Designer.cs">
+      <DependentUpon>Page_BO2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Download.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Page_Download.Designer.cs">
+      <DependentUpon>Page_Download.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Ghost.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Page_Ghost.Designer.cs">
+      <DependentUpon>Page_Ghost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Page_Login.Designer.cs">
+      <DependentUpon>Page_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Page_Menu.Designer.cs">
+      <DependentUpon>Page_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Menu_2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Page_Menu_2.Designer.cs">
+      <DependentUpon>Page_Menu_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page_MW2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Page_MW2.Designer.cs">
+      <DependentUpon>Page_MW2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Option.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Page_Option.Designer.cs">
+      <DependentUpon>Page_Option.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page_BO2.resx">
+      <DependentUpon>Page_BO2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page_Download.resx">
+      <DependentUpon>Page_Download.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page_Ghost.resx">
+      <DependentUpon>Page_Ghost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page_Login.resx">
+      <DependentUpon>Page_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page_Menu.resx">
+      <DependentUpon>Page_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page_Menu_2.resx">
+      <DependentUpon>Page_Menu_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page_MW2.resx">
+      <DependentUpon>Page_MW2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page_Option.resx">
+      <DependentUpon>Page_Option.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\588a64e0d06f6719692a2d10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a7f140e86d70c753afa3835c95442055_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anime-girl-1920x1080-hd-4k-11819.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-53-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-56-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-82-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\available-updates-512 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\available-updates-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call-of-duty-black-ops-logo-0F44D8FF9C-seeklogo.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-window-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cod__mw2_icon_mw3_style_by_ibloxman-d5kbldh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cod4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-2-512 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-2-512 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-2-5121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty-trash-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-7-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\full-trash-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-home-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-call-of-duty-ghosts-call-of-duty-advanced-warfar-call-of-duty-ghosts-symbol-image-collections-fre-5b67a31b470fa6.0863982615335186192911.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize-window-512 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize-window-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modern_warfare_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modern_warfare_3_logo_by_wifsimster-d4f9ozd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\old_mw3_da_id_by_snitchpogi12-d55j5ro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tekno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-download-icon-png-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-mark-2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe-2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghost1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghost_sp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghost11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo2_sp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo2_zm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cod_mw2-sp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change-user-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visible-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty-trash-5121.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,18 @@
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\bin\Debug\Essaie Menu.exe.config
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\bin\Debug\Essaie Menu.exe
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\bin\Debug\Essaie Menu.pdb
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Form1.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Properties.Resources.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie Menu.csproj.GenerateResource.cache
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie Menu.exe
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie Menu.pdb
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Page_Menu.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Page_Download.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Page_Menu_2.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Page_Option.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Page_MW3.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Page_MW2.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Page_BO2.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Page_Ghost.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie_Menu.Page_Login.resources
+C:\Users\Light\OneDrive\Documents\cours\SIO\SI4\SI4 C#\Essaie Menu\Essaie Menu\obj\Debug\Essaie Menu.csprojResolveAssemblyReference.cache
