@@ -1,0 +1,26 @@
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Bo2 Compact v2.0.exe.config
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Bo2 Compact v2.0.exe
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Bo2 Compact v2.0.pdb
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Bo2 Compact v2.0.xml
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.0.vbprojResolveAssemblyReference.cache
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2_Compact_v2._0.Form1.resources
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2_Compact_v2._0.Resources.resources
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.0.vbproj.GenerateResource.Cache
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.0.exe
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.0.xml
+c:\users\light\documents\visual studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.0.pdb
+C:\Users\Light\Documents\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Cyotek.Windows.Forms.ColorPicker.dll
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Cyotek.Windows.Forms.ColorPicker.dll
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.0.vbprojResolveAssemblyReference.cache
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2_Compact_v2._0.Form1.resources
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2_Compact_v2._0.Loading.resources
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2_Compact_v2._0.Resources.resources
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2_Compact_v2._0.Zombie.resources
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.0.vbproj.GenerateResource.Cache
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Bo2 Compact v2.1.exe.config
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.1.xml
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Bo2 Compact v2.1.exe
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Bo2 Compact v2.1.pdb
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\bin\Debug\Bo2 Compact v2.1.xml
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.1.exe
+T:\Document\Visual Studio 2015\Projects\Bo2 Compact v2.0\Bo2 Compact v2.0\obj\Debug\Bo2 Compact v2.1.pdb
